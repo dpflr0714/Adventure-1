@@ -1,0 +1,11 @@
+if __name__ == '__main__':
+    n = int(input())
+if 1 <= n <= 20:
+  for n in range (n):
+    n += 0
+    y = n * n
+    print (y)
+else:
+  print ("Please enter proper number")
+  
+  #Testing
